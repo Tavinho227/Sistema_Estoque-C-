@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+*.layout
+Makefile.win
+*.bak
+*.log
